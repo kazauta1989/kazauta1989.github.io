@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/08/06/hello-world/"/>
+      <url>/2020/08/06/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>測試能不能用</title>
+      <link href="/2020/08/06/%E6%9C%AC%E9%80%B1%E5%A0%B1%E5%91%8A0519/"/>
+      <url>/2020/08/06/%E6%9C%AC%E9%80%B1%E5%A0%B1%E5%91%8A0519/</url>
+      
+        <content type="html"><![CDATA[<h1 id="本週報告0519"><a href="#本週報告0519" class="headerlink" title="本週報告0519"></a>本週報告0519</h1><ul><li><p>上週有著重在撰寫相關IT文件，那此舉的目的是希望能幫助大家解決問題</p></li><li><p>IT相關文件</p><ul><li><a href="https://www.notion.so/norikdaoda/70b62aa74a8646e89b188ba4159db756">請點我</a> &lt;– 十萬個為什麼</li><li>裡面目前有提到印表機安裝操作方式、Office安裝方式，以及一些常見問題，像是Wifi連不上等等之類的，都有截圖說明以及處理方式</li></ul></li><li><p>曾經手之專案註解及說明文件</p><ul><li>其實就是把之前經手過的專案，再一次審視，之前都有寫過註解說明，會全部整理起來，看起來比較有脈絡，以及看下有沒有要補充說明這樣</li></ul></li><li><p>BuyGk</p><ul><li>會把其餘部分修完</li><li>文建會再增加補充說明</li></ul></li><li><p>積木丼</p><ul><li>有提部分改動需求，若確定之後才會進行動作</li></ul></li></ul><h1 id="待辦清單"><a href="#待辦清單" class="headerlink" title="待辦清單"></a>待辦清單</h1><p>一些文件檔案是存放在Git上，或是notion上，再來就是NAS以及Google雲端</p><ul><li><p><input disabled="" type="checkbox">  相關文件</p><ul><li><input checked="" disabled="" type="checkbox"> IT相關 （陸續新增，Office、印表機、Wi-fi…等等）</li><li><input checked="" disabled="" type="checkbox"> 諾利嘉官網（Git註解及說明）</li><li><input checked="" disabled="" type="checkbox"> 晴天官網（Git註解及說明）</li><li><input checked="" disabled="" type="checkbox"> 淘寶爬蟲（Git註解及說明）</li><li><input checked="" disabled="" type="checkbox"> Line notify（Git註解及說明） –&gt;填寫Google表單，Line通知</li><li><input checked="" disabled="" type="checkbox"> Wordpress主題＆插件說明</li><li><input checked="" disabled="" type="checkbox"> Wordpress匯出資料檔案操作</li><li><input checked="" disabled="" type="checkbox"> Wordpress基礎操作</li><li><input checked="" disabled="" type="checkbox"> Wordpress基礎操作 for 新雲林電台</li><li><input checked="" disabled="" type="checkbox"> Wordpress金流</li><li><input checked="" disabled="" type="checkbox"> 相關帳號資料</li></ul></li><li><p><input disabled="" type="checkbox">  BuyGk</p><ul><li><input checked="" disabled="" type="checkbox"> css註解</li><li><input checked="" disabled="" type="checkbox"> 相關使用插件列表</li><li><input disabled="" type="checkbox"> 手機版介面調整 –&gt;微調處理</li></ul></li><li><p><input disabled="" type="checkbox">  積木丼</p><ul><li><input checked="" disabled="" type="checkbox"> css註解</li><li><input checked="" disabled="" type="checkbox"> 相關使用插件列表</li><li><input disabled="" type="checkbox"> 相關頁面調整 –&gt;確定後才會執行</li></ul></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 隨意 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 無聊寫寫 </tag>
+            
+            <tag> 好玩 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
